@@ -35,7 +35,7 @@ Phase 3: Merge your branch to the master branch.   Currently this instruction sh
 -	Check for conflict and merge.  If there is no conflict, it says "This branch has no conflicts with the base branch"
 -	Merge by clicking on "Merge Pull Request" then "Confirm Merge"
 
-Phase 4: Check your merge.
+Phase 4: Check your merge on the master branch.
 
 - Finally, check your work by reviewing the master branch to ensure it successfully merged.
 - Now, you are done with adding your work to the master branch.
