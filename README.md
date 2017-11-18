@@ -29,10 +29,10 @@ Phase2b – Add your branch to gitHub
     Please note when you are done this step, your branch is up on GitHub but it is on its own branch
 
 Phase 3: Merge your branch to the master branch.   Currently this instruction shows you on GitHub UI which has nice UI for merging.
-
--	Use UI to do pull.
+-   Click on the second option of the tap on the UI "XX branches"
+-	Click on "Pull".
 -	Check for conflict
--	Merge
+-	Merge by doing "Merge Pull Request" then "Confirm Merge"
 
 Finally, check your work on the master branch to ensure it successfully merged.
 
