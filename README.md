@@ -13,7 +13,7 @@ Phase 2a – Make your branch
 
 	$git pull origin master
 
--	Make your branch with convention of using your ucsd login name
+-	Make your branch with convention of using your ucsd login name.  Ideally, if you make a new feature of your work, you should create a new branch, so you can track the feature on its own branch.  If you don't mind then you can reuse the same branch if you created it before and you can skip this step and go on with your changes on phase 2b.
 
 	$git checkout -b mqh001_branch_name
 
