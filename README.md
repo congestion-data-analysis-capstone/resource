@@ -1,5 +1,6 @@
 # resources
 Resource folder contains source code and documentations.
+======
 
 
 This instruction shows you how to make your branch and merge it to a group gitHub.
@@ -23,7 +24,7 @@ Phase2b – Add your branch to gitHub
 
 	$git commit –m “Add change for xxx”
 
-	$git push
+	$git push --set-upstream origin mqh001_your_branch
              
     Please note when you are done this step, your branch is up on GitHub but it is on its own branch
 
