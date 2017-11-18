@@ -33,7 +33,10 @@ Phase 3: Merge your branch to the master branch.   Currently this instruction sh
 -	Do pull by clicking on Your branches' "Pull new request" on the right.
 -   Click on "Create pull request"
 -	Check for conflict and merge.  If there is no conflict, it says "This branch has no conflicts with the base branch"
--	Merge by click on "Merge Pull Request" then "Confirm Merge"
+-	Merge by clicking on "Merge Pull Request" then "Confirm Merge"
 
-Finally, check your work on the master branch to ensure it successfully merged.
+Phase 4: Check your merge.
+
+- Finally, check your work by reviewing the master branch to ensure it successfully merged.
+- Now, you are done with adding your work to the master branch.
 
